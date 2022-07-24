@@ -43,4 +43,4 @@ src="https://img.shields.io/twitter/follow/Ben123114?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/xdd825"><img src="https://github-readme-stats.vercel.app/api?username=xdd825&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="xdd825's GitHub stats" /></a>
 
-<a href="https://github.com/xdd825" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdd825&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/xdd825" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdd825&langs_count=5&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top5%20%Languages" alt="Top Languages" /></a>
